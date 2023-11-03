@@ -3,9 +3,6 @@ import PropTypes from 'prop-types';
 import './FeedbackOptions.css';
 
 export default class FeedbackOptions extends Component {
-  constructor(props) {
-    super(props);
-  }
   render() {
     return (
       <button
